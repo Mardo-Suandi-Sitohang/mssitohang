@@ -65,7 +65,7 @@ var ap3 = new APlayer({
         author: 'Afgan',
         url: 'http://www43.zippyshare.com/d/wuNhJMUb/978279/Afgan%20-%20Bawalah%20Cintaku.mp3',
         pic: 'https://1.bp.blogspot.com/-Mu4ingk3TXw/V-d_LoNeRGI/AAAAAAAAU08/ueVgk1x1hG4hMXSpM9-QuOH63Qzf_7CQwCLcB/s1600/%255Bwww.tohangkaraoke.com%255DAfgan_BawalahCintaku.jpg',
-        lrc: "http://www58.zippyshare.com/d/tCKMVMku/201503/Afgan%20-%20Bawalah%20Cintaku.lrc"
+        lrc: "http://www92.zippyshare.com/d/5Bkd96Aj/449915/Afgan%20-%20Bawalah%20Cintaku.lrc"
     }
 });
 
